@@ -8,6 +8,9 @@
 - models/rocks/asteroid\_1\*
 - models/ships/ship\_1\*
 
+- models/ships/module_cockpit_mk1.blend
+    - With feedback and mesh geometry from Leon Kocjančič "SunderMind"
+
 - audio/sounds/mining_beam.wav
 
 ## Images
